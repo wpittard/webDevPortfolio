@@ -1,4 +1,7 @@
+body{
+  background-color: lightblue;
+}
 img {
-  max-width:50%;
+  max-width:20%;
   height:auto;
 }
